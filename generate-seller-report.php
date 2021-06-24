@@ -29,7 +29,7 @@
       border-radius: 0;
     }
 
-    /* Add a gray background color and some padding to the footer */
+    /* Add  a gray background color and some padding to the footer */
     footer {
       background-color: #f2f2f2;
       padding: 25px;
