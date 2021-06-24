@@ -35,7 +35,7 @@
       padding: 25px;
     }
 
-    /* bassem shou????? */
+    /* bassem shou????? test*/
     .carousel-inner img {
       width: 100%;
       /* Set width to 100% */
